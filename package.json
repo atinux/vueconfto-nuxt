@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-demo",
+  "version": "1.0.0",
+  "description": "Nuxt 2 demo based on Adam Wathan demo for VueToronto.",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build --modern",
+    "start": "nuxt start --modern",
+    "generate": "nuxt generate --modern",
+    "spa": "nuxt build --spa"
+  },
+  "author": "Atinux",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt-edge": "^2.3.0-25704955.ae8dc96",
+    "nuxt-purgecss": "^0.0.2",
+    "tailwindcss": "^0.7.2"
+  }
+}
