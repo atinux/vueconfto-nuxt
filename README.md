@@ -5,6 +5,11 @@ Vue.js Conf Toronto Demo based on Adam Wathan demo, transformed to use [Nuxt.js]
 - [Demo](https://vueconfto-nuxt.surge.sh/)
 - [Adam's repo](https://github.com/adamwathan/vueconfto-demo)
 
+## Ligthouse score :fire:
+
+<img width="735" alt="nuxt-lighthouse" src="https://user-images.githubusercontent.com/904724/48637217-05b8cd00-e99b-11e8-943f-052b49c31be6.png">
+
+
 ## Project setup
 
 ```bash
