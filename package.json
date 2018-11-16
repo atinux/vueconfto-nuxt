@@ -12,7 +12,7 @@
   "author": "Atinux",
   "license": "MIT",
   "dependencies": {
-    "nuxt-edge": "^2.3.0-25704955.ae8dc96",
+    "nuxt": "^2.3.1",
     "nuxt-purgecss": "^0.0.2",
     "tailwindcss": "^0.7.2"
   }
