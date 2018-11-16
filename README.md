@@ -1,4 +1,4 @@
-# vueconfto-nuxt
+# Vue Conf Toronto: Nuxt Demo
 
 Vue.js Conf Toronto Demo based on Adam Wathan demo, transformed to use [Nuxt.js](https://github.com/nuxt/nuxt.js) & [Purge CSS module](https://github.com/Developmint/nuxt-purgecss).
 
